@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@main
 struct GitInboxApp: App {
     var body: some Scene {
         WindowGroup {
@@ -15,3 +14,5 @@ struct GitInboxApp: App {
         }
     }
 }
+
+
