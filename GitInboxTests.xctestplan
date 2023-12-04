@@ -9,11 +9,13 @@
     }
   ],
   "defaultOptions" : {
+    "codeCoverage" : false,
     "targetForVariableExpansion" : {
       "containerPath" : "container:GitInbox.xcodeproj",
       "identifier" : "3A581ED52B17B6B10074C216",
       "name" : "GitInbox"
-    }
+    },
+    "testExecutionOrdering" : "random"
   },
   "testTargets" : [
     {
